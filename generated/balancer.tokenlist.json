@@ -11857,6 +11857,13 @@
         },
         {
             "chainId": 44787,
+            "address": "0x524d97a67f50f4a062c28c74f60703aec9028a94",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 44787,
             "address": "0x1d4C35C3F4a91103bA323fE2f4c3f6eBeF531c11",
             "name": "Bob",
             "symbol": "BO",
