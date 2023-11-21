@@ -11857,14 +11857,14 @@
         },
         {
             "chainId": 44787,
-            "address": "0x1d4c35c3f4a91103ba323fe2f4c3f6ebef531c11",
+            "address": "0x1d4C35C3F4a91103bA323fE2f4c3f6eBeF531c11",
             "name": "Bob",
             "symbol": "BO",
             "decimals": 18
         },
         {
             "chainId": 44787,
-            "address": "0x317e1d46cee079683c82fffc9b524f55c29b7b91",
+            "address": "0x317e1d46ceE079683C82fFfC9b524F55c29B7b91",
             "name": "Alice",
             "symbol": "AL",
             "decimals": 18
