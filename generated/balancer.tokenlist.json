@@ -11878,7 +11878,7 @@
         },
         {
             "chainId": 44787,
-            "address": "0x4a4ac35b50daf081c22856ebb26561f3a22598c6",
+            "address": "0x4a4AC35B50DAf081C22856ebB26561F3a22598C6",
             "name": "Cello Dollar",
             "symbol": "cUSD",
             "decimals": 18
