@@ -11875,6 +11875,13 @@
             "name": "Alice",
             "symbol": "AL",
             "decimals": 18
+        },
+        {
+            "chainId": 44787,
+            "address": "0x4a4ac35b50daf081c22856ebb26561f3a22598c6",
+            "name": "Cello Dollar",
+            "symbol": "cUSD",
+            "decimals": 18
         }
     ]
 }
