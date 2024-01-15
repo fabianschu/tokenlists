@@ -11862,12 +11862,44 @@
             "symbol": "WETH",
             "decimals": 18
         },
-                {
+        {
             "chainId": 44787,
             "address": "0xeda66c3cA9612352Fccf9b87160E275550FcB918",
             "name": "Wrapped Celo",
             "symbol": "WCELO",
             "decimals": 18
+        },
+        {
+            "chainId": 44787,
+            "address": "0x5bdf60c7e4f07592a7c7c1861fb76c5344c9d755",
+            "name": "Toucan Protocol: Nature Carbon Tonne",
+            "symbol": "NCT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24484/standard/NCT-removebg-preview.png?1696523665"
+        },
+        {
+            "chainId": 44787,
+            "address": "0x0b940654692c270d7b0b03e8656c60d775dcaac0",
+            "name": "PrimeDAO",
+            "symbol": "D2D",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/21609/standard/RJD82RrV_400x400.jpg?1696520970"
+        },
+        {
+            "chainId": 44787,
+            "address": "0x6d734e4cdca7b0e407a30c505b38e281c9486ed2",
+            "name": "impactMarket",
+            "symbol": "PACT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/21907/standard/PACT_Token_Ticker_Blue_2x.png?1696521258"
+        },
+        {
+            "chainId": 44787,
+            "address": "0x2fab79419cc079e05666c86b7a63311943433252",
+            "name": "Ethic Hub",
+            "symbol": "ETHIX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/3031/standard/ETHIX_icon_256x256-256.png?1696503766"
         },
         {
             "chainId": 44787,
