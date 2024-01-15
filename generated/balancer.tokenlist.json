@@ -11872,7 +11872,7 @@
         },
         {
             "chainId": 44787,
-            "address": "0x5bdf60c7e4f07592a7c7c1861fb76c5344c9d755",
+            "address": "0x5BDF60c7e4F07592a7c7c1861Fb76c5344c9D755",
             "name": "Toucan Protocol: Nature Carbon Tonne",
             "symbol": "NCT",
             "decimals": 18,
@@ -11880,7 +11880,7 @@
         },
         {
             "chainId": 44787,
-            "address": "0x0b940654692c270d7b0b03e8656c60d775dcaac0",
+            "address": "0x0B940654692c270D7B0b03E8656C60D775DcaaC0",
             "name": "PrimeDAO",
             "symbol": "D2D",
             "decimals": 18,
@@ -11888,7 +11888,7 @@
         },
         {
             "chainId": 44787,
-            "address": "0x6d734e4cdca7b0e407a30c505b38e281c9486ed2",
+            "address": "0x6d734E4CDca7b0E407A30C505B38E281c9486ED2",
             "name": "impactMarket",
             "symbol": "PACT",
             "decimals": 18,
@@ -11896,7 +11896,7 @@
         },
         {
             "chainId": 44787,
-            "address": "0x2fab79419cc079e05666c86b7a63311943433252",
+            "address": "0x2FAb79419CC079E05666c86B7A63311943433252",
             "name": "Ethic Hub",
             "symbol": "ETHIX",
             "decimals": 18,
