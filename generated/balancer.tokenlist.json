@@ -11862,6 +11862,13 @@
             "symbol": "WETH",
             "decimals": 18
         },
+                {
+            "chainId": 44787,
+            "address": "0xeda66c3cA9612352Fccf9b87160E275550FcB918",
+            "name": "Wrapped Celo",
+            "symbol": "WCELO",
+            "decimals": 18
+        },
         {
             "chainId": 44787,
             "address": "0x1d4C35C3F4a91103bA323fE2f4c3f6eBeF531c11",
