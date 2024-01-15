@@ -11867,7 +11867,8 @@
             "address": "0xeda66c3cA9612352Fccf9b87160E275550FcB918",
             "name": "Wrapped Celo",
             "symbol": "WCELO",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/11090/standard/InjXBNx9_400x400.jpg?1696511031"
         },
         {
             "chainId": 44787,
@@ -11920,7 +11921,8 @@
             "address": "0x4a4AC35B50DAf081C22856ebB26561F3a22598C6",
             "name": "Cello Dollar",
             "symbol": "cUSD",
-            "decimals": 18
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/13161/standard/icon-celo-dollar-color-1000-circle-cropped.png?1696512945"
         }
     ]
 }
