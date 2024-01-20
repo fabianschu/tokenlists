@@ -11923,6 +11923,110 @@
             "symbol": "cUSD",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/13161/standard/icon-celo-dollar-color-1000-circle-cropped.png?1696512945"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x471EcE3750Da237f93B8E339c536989b8978a438",
+            "name": "CELO native asset",
+            "symbol": "CELO",
+            "decimals": 18,
+            "logoURI": "https://assets-global.website-files.com/652d421c1214a2eebd967f36/6537e85c4fe061f13f246111_6531707e952c3242e22b605e_Celo.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0xC668583dcbDc9ae6FA3CE46462758188adfdfC24",
+            "name": "Staked CELO",
+            "symbol": "stCELO",
+            "decimals": 18,
+            "logoURI": "https://celoscan.io/token/images/stcelo_32.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x765DE816845861e75A25fCA122bb6898B8B1282a",
+            "name": "Celo Dollar",
+            "symbol": "cUSD",
+            "decimals": 18,
+            "logoURI": "https://celoscan.io/token/images/celodollar_32.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
+            "name": "Celo Euro",
+            "symbol": "cEUR",
+            "decimals": 18,
+            "logoURI": "https://celoscan.io/token/images/celoeuro_32.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x66803FB87aBd4aaC3cbB3fAd7C3aa01f6F3FB207",
+            "name": "Wrapped Ether (Wormhole)",
+            "symbol": "wETH",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x617f3112bf5397D0467D315cC709EF968D9ba546",
+            "name": "Tether USD (Wormhole)",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x37f750B7cC259A2f741AF45294f6a16572CF5cAd",
+            "name": "USD Coin (Wormhole)",
+            "symbol": "USDC",
+            "decimals": 6,
+            "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x9995cc8F20Db5896943Afc8eE0ba463259c931ed",
+            "name": "Ethix (Wormhole)",
+            "symbol": "ETHIX",
+            "decimals": 18,
+            "logoURI": "https://celoscan.io/token/images/ethichub_32.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0xBc440BB632ac311F8877dEE23e77ddb1065703B7",
+            "name": "Prime (Wormhole)",
+            "symbol": "D2D",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/21609/standard/RJD82RrV_400x400.jpg?1696520970"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x4F604735c1cF31399C6E711D5962b2B3E0225AD3",
+            "name": "Glo Dollar",
+            "symbol": "GLO",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/29319/standard/glo_logo_coingecko.png?1696528270"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x27cd006548dF7C8c8e9fdc4A67fa05C2E3CA5CF99",
+            "name": "PLASTIK Token",
+            "symbol": "PLASTIK",
+            "decimals": 9,
+            "logoURI": "https://celoscan.io/token/images/plastikstoken_32.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x62B8B11039FcfE5aB0C56E502b1C372A3d2a9c7A",
+            "name": "Good Dollar",
+            "symbol": "G$",
+            "decimals": 18,
+            "logoURI": "https://celoscan.io/token/images/gooddollar_32.png"
+        },
+        {
+            "chainId": 42220,
+            "address": "0x02De4766C272abc10Bc88c220D214A26960a7e92",
+            "name": "Nature Carbon Tonne",
+            "symbol": "NCT",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24484/standard/NCT-removebg-preview.png?1696523665"
         }
     ]
 }
